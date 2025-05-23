@@ -7,3 +7,7 @@ Específicamente, se adjunta:
 - Informe: Contiene las actividades realizadas.
 
 - Lab3_imagenes.rar: Contiene las imagenes utilizadas en el informe.
+
+# Contacto
+
+Correo: tomas.diaz_c@mail.udp.cl
